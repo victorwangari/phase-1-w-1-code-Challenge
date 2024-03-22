@@ -15,4 +15,4 @@ function getSpeedPoints (speed){
 
 }
 }
-    console.log(getSpeedPoints(90));
+    console.log(getSpeedPoints(150));

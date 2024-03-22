@@ -23,7 +23,7 @@ Git clone https://github.com/victorwangari/phase-1-w-1-code-Challenge
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://github.com/victorwangari/phase-1-w-1-code-Challenge)
 
 ## Technologies used
 Javascript

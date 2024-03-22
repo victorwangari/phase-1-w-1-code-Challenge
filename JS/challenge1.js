@@ -15,4 +15,4 @@ function getGrade (marks){
         return "E"   
     }
 }
-console.log(getGrade(20));
+console.log(getGrade(30));
