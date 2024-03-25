@@ -6,9 +6,9 @@
  
 ## Description
 This page have three file each giving solutions to different problems.
-The first file is grading marks for students.
-The second file is defining speed detector by giving points.
-The third file is is giving the net salary fo an individual based on basic Salary and benefits.
+The file challenge1.js  is grading marks for students from grade A to grade E depending on the number of marks.
+The file challenge2.js is defining speed by giving points to the driver in which if driver gets more than 12points the driving licence would be suspended.
+The file challenge3.jss is giving the net salary fo an individual based on basic Salary and benefits.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
