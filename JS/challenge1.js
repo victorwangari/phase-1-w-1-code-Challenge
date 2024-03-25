@@ -1,3 +1,4 @@
+// culculate grade
 function getGrade (marks){
     if(marks<=100 && marks>79){
         return "A"
@@ -15,4 +16,4 @@ function getGrade (marks){
         return "E"   
     }
 }
-console.log(getGrade(30));
+console.log(getGrade(80));
